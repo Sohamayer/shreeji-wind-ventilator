@@ -309,6 +309,8 @@ Open **[http://localhost:3005](http://localhost:3005)** in your browser.
 - **Email**: [info@shreejiwindventilator.com](mailto:info@shreejiwindventilator.com) | [sales@shreejiwindventilator.com](mailto:sales@shreejiwindventilator.com)
 - **Website**: [https://shreejiwindventilator.com](https://shreejiwindventilator.com)
 
+---
+
 ## 📄 License
 
 This repository is primarily a portfolio and demonstration project.
