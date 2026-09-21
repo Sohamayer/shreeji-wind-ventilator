@@ -308,3 +308,21 @@ Open **[http://localhost:3005](http://localhost:3005)** in your browser.
 - **Phone**: +91 93202 93021 / +91 72628 60283
 - **Email**: [info@shreejiwindventilator.com](mailto:info@shreejiwindventilator.com) | [sales@shreejiwindventilator.com](mailto:sales@shreejiwindventilator.com)
 - **Website**: [https://shreejiwindventilator.com](https://shreejiwindventilator.com)
+
+## 📄 License
+
+This repository is primarily a portfolio and demonstration project.
+
+If this repository is later distributed as open source, add the appropriate license and usage terms.
+
+---
+
+## 👨‍💻 Developer
+
+**Soham Aeer**
+
+Full Stack Developer · React · Node.js · Express · MERN · DevOps / VPS Deployment
+
+- Portfolio: https://soham-aeer-fullstack-portfolio.web.app/
+- GitHub: https://github.com/Sohamayer
+- LinkedIn: https://www.linkedin.com/in/soham-aeer
